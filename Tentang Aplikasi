@@ -1,0 +1,7 @@
+Aplikasi ini memberikan pemberian pakan kucing sesuai jadwal
+
+Data kucing (berat,umur, frekuensei pemberian pakan, jadwal makan, jumlah pakan) disimpan dalam firebase
+
+Data kucing diinputkan melalui aplikasi mobile,
+
+Alat pemberi pakan mengambil data pada firebase untuk menentukan pemberian pakan sesuai dengan jadwal makan dan berat pakan yand ditentukan
